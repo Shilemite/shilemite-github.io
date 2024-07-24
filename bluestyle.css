@@ -6,5 +6,5 @@ body {
     color: navy;
     margin-left: 20px;
     }
-    .Rotation{transform: rotate(45deg); border-radius: 50%;}
-    .Rotation1{transform: rotate(15deg); border-radius: 25%;}
+
+    .white {background-color: whitesmoke; border: solid 2px rgb(222, 135, 138);}
