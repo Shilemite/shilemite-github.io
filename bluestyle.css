@@ -6,3 +6,5 @@ body {
     color: navy;
     margin-left: 20px;
     }
+
+    .white {background-color: whitesmoke; border: solid 2px rgb(222, 135, 138);}
